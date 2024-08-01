@@ -29,14 +29,13 @@ Before you begin, ensure you have the following:
 
 If you encounter any issues or have questions, please refer to the [FAQ](link-to-faq) or [contact our support team](link-to-support). -->
 
-## Contributing
+<!-- ## Contributing
 
-We welcome contributions to improve this plugin. If you're interested in contributing, please check out our [contributing guidelines](link-to-contributing-guidelines).
+We welcome contributions to improve this plugin. If you're interested in contributing, please check out our [contributing guidelines](link-to-contributing-guidelines). -->
 
 ## License
 
-This project is licensed under the [MIT License](link-to-license).
-
+This project is licensed under the MIT License
 ---
 
 Thank you for using the repos-to-sanity! We hope it enhances your development and content management experience.
