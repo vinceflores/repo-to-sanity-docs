@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdts_docs=self.webpackChunkdts_docs||[]).push([[466],{3738:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/repo-to-sanity-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
